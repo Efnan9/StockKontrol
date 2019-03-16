@@ -1,0 +1,10 @@
+c:\users\efnan\documents\visual studio 2013\Projects\FGGRUP\FGGRUP\bin\Debug\FGGRUP.exe.config
+c:\users\efnan\documents\visual studio 2013\Projects\FGGRUP\FGGRUP\bin\Debug\FGGRUP.exe
+c:\users\efnan\documents\visual studio 2013\Projects\FGGRUP\FGGRUP\bin\Debug\FGGRUP.pdb
+c:\users\efnan\documents\visual studio 2013\Projects\FGGRUP\FGGRUP\obj\Debug\FGGRUP.csprojResolveAssemblyReference.cache
+c:\users\efnan\documents\visual studio 2013\Projects\FGGRUP\FGGRUP\obj\Debug\FGGRUP.Form1.resources
+c:\users\efnan\documents\visual studio 2013\Projects\FGGRUP\FGGRUP\obj\Debug\FGGRUP.Properties.Resources.resources
+c:\users\efnan\documents\visual studio 2013\Projects\FGGRUP\FGGRUP\obj\Debug\FGGRUP.csproj.GenerateResource.Cache
+c:\users\efnan\documents\visual studio 2013\Projects\FGGRUP\FGGRUP\obj\Debug\FGGRUP.exe
+c:\users\efnan\documents\visual studio 2013\Projects\FGGRUP\FGGRUP\obj\Debug\FGGRUP.pdb
+c:\users\efnan\documents\visual studio 2013\Projects\FGGRUP\FGGRUP\obj\Debug\FGGRUP.Listele.resources
